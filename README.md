@@ -24,18 +24,9 @@ Revenue Analysis
 
 <img width="1866" height="600" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/6d6ecbc8-1aec-4ece-8f41-0eb57c9ad92e" />
 
-
-- Revenue trends across months and customer types.
-
 - Customer Segmentation
 
   <img width="1866" height="567" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/dae5de31-7225-45c3-9114-131b649d79ed" />
-
-- Classification of customers into groups such as Premium, Gold, Silver, and Standard.
-
-- Score-based evaluation of customer value.
-
-- Coupon Effectiveness
 
 - Comparison of revenue and average transaction values between coupon users and non-users.
 
@@ -45,6 +36,14 @@ Revenue Analysis
 
 - Cohort & Retention Analysis
 <img width="1875" height="542" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/34bb4c9f-032d-4e9e-8125-c5ae502c3cc9" />
+
+- Revenue trends across months and customer types.
+
+- Classification of customers into groups such as Premium, Gold, Silver, and Standard.
+
+- Score-based evaluation of customer value.
+
+- Coupon Effectiveness
 
 - Grouped customers by their first purchase month.
 
