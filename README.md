@@ -10,15 +10,14 @@ Objective: Analyze e-commerce sales data to uncover patterns and trends in reven
 Tools Used:
 
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy)
-
-Jupyter Notebook
+Google Collab Notebook
 
 ✅ Key Analyses Performed
 Revenue Analysis
 
-Total revenue by product category, segment, and time period.
+- Total revenue by product category, segment, and time period.
 
-Revenue trends across months and customer types.
+- Revenue trends across months and customer types.
 
 Customer Segmentation
 
