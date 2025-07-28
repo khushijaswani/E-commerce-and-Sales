@@ -70,3 +70,9 @@ Integration with real-time data sources (APIs).
 Predictive analytics using machine learning models.
 
 Dashboard creation using Power BI or Tableau for stakeholders.
+
+📬 Contact
+For questions or suggestions, feel free to contact:
+
+- Khushi Jaswani
+- khushijaswani64@gmail.com
