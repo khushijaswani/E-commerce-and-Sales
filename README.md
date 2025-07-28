@@ -2,6 +2,9 @@
 🛒 Ecommerce & Sales Analysis
 This project presents a comprehensive analysis of an e-commerce dataset with a focus on understanding sales performance, customer behavior, and revenue generation. The insights derived aim to help businesses make informed decisions to enhance customer satisfaction and drive growth.
 
+<img width="1851" height="649" alt="Monthly Retention" src="https://github.com/user-attachments/assets/a72bb9b4-6e3f-4977-8524-b6b90dde6a06" />
+
+
 📊 Project Overview
 Filename: Ecommerce_and_Sales.ipynb
 
