@@ -51,26 +51,7 @@ Coupon usage showed no statistically significant difference in average transacti
 
 Retention rates varied by cohort — suggesting targeted engagement strategies could help retain customers better in low-retention months.
 
-📁 Project Structure
-bash
-Copy
-Edit
-📦 Ecommerce & Sales Analysis
-├── Ecommerce_and_Sales.ipynb
-├── README.md  <-- (You are here)
-└── dataset/ (optional, if provided externally)
-🚀 How to Run
-Clone this repository or download the notebook.
 
-Make sure you have Jupyter installed or run it via Google Colab.
-
-Install required libraries using:
-
-bash
-Copy
-Edit
-pip install pandas numpy matplotlib seaborn scipy
-Open Ecommerce_and_Sales.ipynb and run all cells.
 
 📌 Future Scope
 Integration with real-time data sources (APIs).
