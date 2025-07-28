@@ -27,9 +27,6 @@ Revenue Analysis
 
 - Revenue trends across months and customer types.
 
-
-<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/2d2d73a3-9c96-4bd1-82ef-dd08721df0ea" />
-
 - Customer Segmentation
 
   <img width="1866" height="567" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/dae5de31-7225-45c3-9114-131b649d79ed" />
