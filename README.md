@@ -19,23 +19,23 @@ Revenue Analysis
 
 - Revenue trends across months and customer types.
 
-Customer Segmentation
+- Customer Segmentation
 
-Classification of customers into groups such as Premium, Gold, Silver, and Standard.
+- Classification of customers into groups such as Premium, Gold, Silver, and Standard.
 
-Score-based evaluation of customer value.
+- Score-based evaluation of customer value.
 
-Coupon Effectiveness
+- Coupon Effectiveness
 
-Comparison of revenue and average transaction values between coupon users and non-users.
+- Comparison of revenue and average transaction values between coupon users and non-users.
 
-Statistical testing (t-test) to determine the significance of coupon impact.
+- Statistical testing (t-test) to determine the significance of coupon impact.
 
-Cohort & Retention Analysis
+- Cohort & Retention Analysis
 
-Grouped customers by their first purchase month.
+- Grouped customers by their first purchase month.
 
-Analyzed retention rates across different cohorts to identify strong and weak periods.
+- Analyzed retention rates across different cohorts to identify strong and weak periods.
 
 Data Visualization
 
