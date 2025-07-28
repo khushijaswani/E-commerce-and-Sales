@@ -20,9 +20,19 @@ Revenue Analysis
 
 - Total revenue by product category, segment, and time period.
 
+<img width="1817" height="700" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/d13e6aec-4a76-4ab6-9749-f9f9ecf2b0e0" />
+
+<img width="1866" height="600" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/6d6ecbc8-1aec-4ece-8f41-0eb57c9ad92e" />
+
+
 - Revenue trends across months and customer types.
 
+
+<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/2d2d73a3-9c96-4bd1-82ef-dd08721df0ea" />
+
 - Customer Segmentation
+
+  <img width="1866" height="567" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/dae5de31-7225-45c3-9114-131b649d79ed" />
 
 - Classification of customers into groups such as Premium, Gold, Silver, and Standard.
 
@@ -32,9 +42,12 @@ Revenue Analysis
 
 - Comparison of revenue and average transaction values between coupon users and non-users.
 
+<img width="1820" height="593" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/bbd5a399-4f98-445f-8662-661e0716652c" />
+
 - Statistical testing (t-test) to determine the significance of coupon impact.
 
 - Cohort & Retention Analysis
+<img width="1875" height="542" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/34bb4c9f-032d-4e9e-8125-c5ae502c3cc9" />
 
 - Grouped customers by their first purchase month.
 
