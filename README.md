@@ -1,78 +1,137 @@
-# E-commerce-and-Sales
-🛒 Ecommerce & Sales Analysis
-This project presents a comprehensive analysis of an e-commerce dataset with a focus on understanding sales performance, customer behavior, and revenue generation. The insights derived aim to help businesses make informed decisions to enhance customer satisfaction and drive growth.
+E-commerce & Sales Analysis
 
-<img width="1851" height="649" alt="Monthly Retention" src="https://github.com/user-attachments/assets/a72bb9b4-6e3f-4977-8524-b6b90dde6a06" />
+A comprehensive end-to-end analysis of an e-commerce dataset focusing on sales performance, customer segmentation, coupon effectiveness, and retention behavior.
+Objective: To uncover actionable insights regarding revenue trends, customer behavior, product category performance, and the effectiveness of business strategies (e.g., coupons & retention programs).
 
+🔧 Tools & Libraries Used
 
-📊 Project Overview
-Filename: Ecommerce_and_Sales.ipynb
+Python
 
-Objective: Analyze e-commerce sales data to uncover patterns and trends in revenue, product categories, customer segments, coupon effectiveness, and retention.
+Pandas
 
-Tools Used:
+NumPy
 
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy)
-Google Collab Notebook
+Matplotlib
 
-✅ Key Analyses Performed
-Revenue Analysis
+Seaborn
 
-- Total revenue by product category, segment, and time period.
+SciPy
 
-<img width="1817" height="700" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/d13e6aec-4a76-4ab6-9749-f9f9ecf2b0e0" />
+Google Colab Notebook
+Key Analyses Performed
+📌 1. Revenue Analysis
 
-<img width="1866" height="600" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/6d6ecbc8-1aec-4ece-8f41-0eb57c9ad92e" />
+Total revenue by:
 
-- Customer Segmentation
+Product category
 
-  <img width="1866" height="567" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/dae5de31-7225-45c3-9114-131b649d79ed" />
+Customer segment
 
-- Comparison of revenue and average transaction values between coupon users and non-users.
+Time period (monthly/quarterly)
+
+<img width="1817" height="700" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/d13e6aec-4a76-4ab6-9749-f9f9ecf2b0e0" /> <img width="1866" height="600" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/6d6ecbc8-1aec-4ece-8f41-0eb57c9ad92e" />
+📌 2. Customer Segmentation
+
+Segmented customers based on:
+
+Purchase frequency
+
+Total spending
+
+Score-based ranking
+
+Classified into:
+Premium, Gold, Silver, Standard groups
+
+<img width="1866" height="567" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/dae5de31-7225-45c3-9114-131b649d79ed" />
+📌 3. Coupon Usage Analysis
+
+Compared:
+
+Revenue between coupon users & non-users
+
+Average transaction values
+
+Conducted t-test to check statistical significance
 
 <img width="1820" height="593" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/bbd5a399-4f98-445f-8662-661e0716652c" />
+📌 4. Cohort & Retention Analysis
 
-- Statistical testing (t-test) to determine the significance of coupon impact.
+Grouped customers by first purchase month
 
-- Cohort & Retention Analysis
+Calculated monthly retention rates
+
+Analyzed retention behavior across cohorts
+
 <img width="1875" height="542" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/34bb4c9f-032d-4e9e-8125-c5ae502c3cc9" />
+📌 5. Additional Insights
 
-- Revenue trends across months and customer types.
+Revenue trends across months & customer types
 
-- Classification of customers into groups such as Premium, Gold, Silver, and Standard.
+Category-wise pattern detection
 
-- Score-based evaluation of customer value.
+Behavior of high-value vs low-value customers
 
-- Coupon Effectiveness
+Visualization using multiple chart types:
 
-- Grouped customers by their first purchase month.
+Bar charts
 
-- Analyzed retention rates across different cohorts to identify strong and weak periods.
+Pie charts
 
-Data Visualization
+Line graphs
 
-Bar charts, pie charts, line graphs to visually represent the sales performance.
+Heatmaps
 
-Clean and professional plots for better understanding.
+All visuals are clean, structured, and easy to interpret.
 
-📌 Insights & Recommendations
-Products in the "Nest-USA" category generated the highest revenue.
+📌 Key Insights & Recommendations
+🔍 Insights
 
-Coupon usage showed no statistically significant difference in average transaction value — indicating a potential need to reevaluate the discount strategy.
+The "Nest-USA" product category generated the highest revenue.
 
-Retention rates varied by cohort — suggesting targeted engagement strategies could help retain customers better in low-retention months.
+Coupon usage did not significantly increase average transaction value
+→ indicates a need to rethink discount strategy.
 
+Retention patterns varied strongly by cohort
+→ some months show weaker customer loyalty.
 
+💡 Recommendations
 
-📌 Future Scope
-Integration with real-time data sources (APIs).
+Strengthen promotions for high-performing categories like Nest-USA.
 
-Predictive analytics using machine learning models.
+Redesign coupon strategy to improve conversion or consider personalized offers.
 
-Dashboard creation using Power BI or Tableau for stakeholders.
+Develop cohort-focused retention campaigns:
+
+Follow-up emails
+
+Reward programs
+
+Personalized deals
+
+🚀 Future Scope
+
+Integrate real-time e-commerce API data
+
+Deploy predictive models for customer churn, demand forecasting, or segmentation
+
+Convert insights into dashboards using:
+
+Power BI
+
+Tableau
+
+Looker Studio
+
+📁 Repository Structure
+📦 E-commerce-and-Sales
+│
+├── Ecommerce_and_Sales.ipynb
+├── README.md
+└── /assets
+    └── (all images/visualizations)
 
 📬 Contact
-For questions or suggestions, feel free to contact:
 
-- Khushi Jaswani
-- khushijaswani64@gmail.com
+Khushi Jaswani
+📧 Email: khushijaswani64@gmail.com
