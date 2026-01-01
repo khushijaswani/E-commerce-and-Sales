@@ -1,121 +1,105 @@
-🛒 E-commerce & Sales Analysis
-Executive Summary
+# 🛒 E-commerce & Sales Analysis
 
-Using Python (Pandas, NumPy, Matplotlib, Seaborn), I analyzed an e-commerce dataset to evaluate sales performance, customer behavior, coupon effectiveness, and retention trends.
-The analysis focused on identifying revenue-driving product categories, understanding customer value segmentation, and assessing whether discount strategies meaningfully impact purchasing behavior.
+## 📌 Executive Summary
+This project analyzes an e-commerce dataset using **Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy)** to evaluate **sales performance, customer behavior, coupon effectiveness, and retention trends**.
 
-Key findings indicate that certain product categories contribute disproportionately to revenue, while coupon usage does not significantly improve average transaction value. Based on cohort and retention analysis, targeted customer engagement strategies are recommended to improve long-term retention and revenue growth.
+The goal is to help business stakeholders identify **revenue drivers**, understand **customer lifetime value**, and optimize **marketing and retention strategies** through data-driven insights.
 
-Business Problem
+---
 
-E-commerce businesses must understand what drives revenue and customer retention to remain competitive.
-Stakeholders want to know:
+## 🧠 Business Problem
+E-commerce businesses need clarity on **what drives revenue and repeat purchases**.
 
-Which product categories and customer segments generate the highest revenue?
+This analysis answers key business questions:
+- Which product categories generate the highest revenue?
+- Which customer segments contribute the most value?
+- Do coupons meaningfully increase transaction value?
+- How well are customers retained over time?
 
-Do coupons and discounts meaningfully increase customer spend?
+---
 
-How well are customers retained over time, and where do drop-offs occur?
+## 🛠️ Methodology
 
-Which customers provide the highest long-term value?
+### 1️⃣ Data Cleaning & Preparation
+- Cleaned missing values and standardized date formats  
+- Engineered revenue and customer-level metrics  
+- Prepared datasets for segmentation and retention analysis  
 
-The goal of this project is to convert raw transactional data into actionable business insights that can improve profitability and customer lifetime value.
+### 2️⃣ Exploratory & Revenue Analysis
+- Analyzed total and monthly revenue by:
+  - Product category  
+  - Customer segment  
+- Identified high-performing products and revenue trends  
 
-Methodology
+### 3️⃣ Customer Segmentation
+- Classified customers into:
+  - **Premium**
+  - **Gold**
+  - **Silver**
+  - **Standard**
+- Used score-based evaluation to compare:
+  - Revenue contribution  
+  - Transaction behavior  
 
-Data Cleaning & Preparation
+### 4️⃣ Coupon Effectiveness Analysis
+- Compared average transaction values between:
+  - Coupon users  
+  - Non-coupon users  
+- Performed **t-test** to measure statistical significance  
 
-Cleaned missing values, standardized date formats, and engineered revenue metrics.
+### 5️⃣ Cohort & Retention Analysis
+- Grouped customers by first purchase month  
+- Analyzed retention trends across cohorts  
+- Identified strong and weak retention periods  
 
-Created customer-level features for segmentation and retention analysis.
+---
 
-Exploratory & Revenue Analysis
+## 📊 Key Results & Business Recommendations
 
-Analyzed total and monthly revenue by product category and customer segment.
+### 🔍 Key Insights
+- **Nest-USA** category generated the highest revenue  
+- Coupon usage showed **no statistically significant increase** in average transaction value  
+- Retention varied significantly across customer cohorts  
+- Premium and Gold customers contributed a disproportionate share of revenue  
 
-Identified high-performing products and revenue trends over time.
+### 💡 Recommendations
+- Focus marketing spend on high-revenue product categories  
+- Replace blanket discounts with **targeted coupon strategies**  
+- Launch cohort-based engagement campaigns for low-retention months  
+- Strengthen loyalty programs for high-value customers  
 
-Customer Segmentation
+---
 
-Classified customers into Premium, Gold, Silver, and Standard categories using score-based evaluation.
+## 🚀 Future Scope
+- Integrate real-time data sources (APIs)  
+- Build predictive models for:
+  - Customer churn  
+  - Customer lifetime value (CLV)  
+- Create interactive dashboards using **Power BI / Tableau**  
+- Perform A/B testing on discount and retention strategies  
 
-Compared revenue contribution and transaction behavior across segments.
+---
 
-Coupon Effectiveness Analysis
+## 🧰 Skills & Tools
 
-Compared average transaction values between coupon users and non-users.
+**Programming & Analysis**
+- Python (Pandas, NumPy, SciPy)
 
-Performed statistical testing (t-test) to measure the significance of coupon impact.
+**Data Visualization**
+- Matplotlib  
+- Seaborn  
 
-Cohort & Retention Analysis
+**Analytics Concepts**
+- Revenue Analysis  
+- Customer Segmentation  
+- Cohort & Retention Analysis  
+- Coupon Effectiveness  
 
-Grouped customers by first purchase month.
+**Environment**
+- Google Colab  
 
-Measured retention rates to identify strong and weak cohorts.
+---
 
-Data Visualization
-
-Created clear bar charts, line plots, and cohort heatmaps for storytelling.
-
-Skills & Tools
-
-Programming & Analysis
-
-Python (Pandas, NumPy, SciPy)
-
-Statistical Analysis (Hypothesis Testing, t-test)
-
-Data Visualization
-
-Matplotlib
-
-Seaborn
-
-Analytics Concepts
-
-Revenue Analysis
-
-Customer Segmentation
-
-Cohort & Retention Analysis
-
-Coupon & Promotion Effectiveness
-
-Environment
-
-Google Colab Notebook
-
-Results & Business Recommendations
-
-The Nest-USA product category generated the highest overall revenue, making it a key focus area for inventory and marketing investment.
-
-Coupon usage showed no statistically significant increase in average transaction value, suggesting the current discount strategy may be eroding margins without driving meaningful uplift.
-
-Customer retention varied significantly across cohorts, indicating opportunities for targeted re-engagement campaigns during low-retention periods.
-
-Premium and Gold customers contributed a disproportionately high share of revenue, highlighting the importance of loyalty-focused strategies.
-
-Recommendations:
-
-Optimize marketing spend toward high-revenue product categories.
-
-Reevaluate coupon strategies and test targeted, personalized discounts instead of blanket offers.
-
-Implement cohort-based engagement campaigns to improve retention in weaker months.
-
-Develop loyalty programs focused on high-value customer segments.
-
-Next Steps
-
-Integrate real-time data sources (APIs) for live performance tracking.
-
-Build predictive models to forecast churn and customer lifetime value.
-
-Create an interactive Power BI / Tableau dashboard for business stakeholders.
-
-Perform A/B testing on discount and engagement strategies.
-
-📬 Contact
-
-Khushi Jaswani
-📧 Email: khushijaswani64@gmail.com
+## 📬 Contact
+**Khushi Jaswani**  
+📧 Email: **khushijaswani64@gmail.com**
